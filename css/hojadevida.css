@@ -1,0 +1,13 @@
+.contenedor{
+    border: red;
+    
+}
+.center{
+    text-align: center;
+}
+.position{
+    padding: 10%;
+}
+.foto{
+    text-align: right    ;
+}
