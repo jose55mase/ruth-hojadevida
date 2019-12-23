@@ -4,7 +4,8 @@ pipeline {
     stage('first') {
       steps {
         sh '''ls
-pwd'''
+pwd
+cd /home/joxe/Escritorio/develop'''
       }
     }
 
